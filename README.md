@@ -7,6 +7,6 @@
 
 
 ### 결과화면
-<img src = "https://user-images.githubusercontent.com/76944959/131815647-bbc30d21-2b78-4eb6-82c7-c36ea87e37ac.png" width="40%" height="60%">
-<img src = "https://user-images.githubusercontent.com/76944959/131815657-e437d3a5-e029-42c1-8590-cf1ef3d2f8a9.png" width="40%" height="60%">
+<img src = "https://user-images.githubusercontent.com/76944959/133240810-3a790431-ec1e-4e5d-ac19-b5a961c46ecc.gif" width="40%" height="60%">
+
 
